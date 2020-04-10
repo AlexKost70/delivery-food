@@ -28,10 +28,10 @@ input {
 }
 .input-address {
   flex: 0.8;
-  background-image: url(../img/home.svg);
+  background-image: url(../img/icons/home.svg);
 }
 .input-search {
-  background-image: url(../img/Search.svg);
+  background-image: url(../img/icons/search.svg);
   width: 300px;
   margin-left: auto;
 }
