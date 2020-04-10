@@ -178,7 +178,7 @@ input {
   color: #000000;
   margin-left: 30px;
 }
-.raiting {
+.rating {
   margin-right: 26px;
   color: #ffc107;
   font-weight: bold;
@@ -216,7 +216,7 @@ input {
   border-radius: 50%;
   margin-left: 10px;
 }
-.reiting-star {
+.rating-star {
   margin-right: 7.5px;
 }
 .footer {
@@ -359,7 +359,7 @@ input {
     background-position: centr right -300;
     background-size: 750px;
   }
-  .raiting {
+  .rating {
     margin-right: 15px;
   }
   .category,
@@ -394,7 +394,7 @@ input {
   .card-info {
     flex-wrap: wrap;
   }
-  .card.raiting {
+  .card.rating {
     flex-basis: 100%;
   }
   .card-title {
